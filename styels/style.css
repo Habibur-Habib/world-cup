@@ -89,6 +89,7 @@ main{
 }
 .article-button-section a {
     display: block;
+    text-decoration: none;
     background: #fff;
     margin: 20px 30px;
     padding: 10px 20px;
